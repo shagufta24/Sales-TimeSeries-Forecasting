@@ -53,9 +53,3 @@ Used multiple performance metrics to assess the accuracy of each model:
 - **Libraries:** pandas, NumPy, scikit-learn, statsmodels, xgboost, lightgbm, Prophet, matplotlib, seaborn  
 - **Visualization:** Matplotlib, Seaborn  
 - **Environment:** Jupyter Notebook, Google Colab  
-
----
-
-## 👩‍💻 Author
-Shagufta
-Graduate Student at UIUC, specializing in Machine Learning and Data Science
